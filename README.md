@@ -1,10 +1,13 @@
-# Frontend Mentor - Product preview card component solution
+# Live Site URL: [https://chanel-widget.netlify.app/](https://chanel-widget.netlify.app/)
+
+## Frontend Mentor - Product preview card component solution
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
-- [Frontend Mentor - Product preview card component solution](#frontend-mentor---product-preview-card-component-solution)
+- [Live Site URL: https://chanel-widget.netlify.app/](#live-site-url-httpschanel-widgetnetlifyapp)
+  - [Frontend Mentor - Product preview card component solution](#frontend-mentor---product-preview-card-component-solution)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
@@ -37,7 +40,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/veeru-neerukonda/Product-preview-card-component.git](https://github.com/veeru-neerukonda/Product-preview-card-component.git)
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: [https://chanel-widget.netlify.app/](https://chanel-widget.netlify.app/)
 
 ## My process
 
